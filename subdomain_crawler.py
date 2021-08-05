@@ -8,7 +8,7 @@ def request(url):
         pass
 
 
-target_url = input("Enter site for crawling (e.g. google.com):")
+target_url = input("Enter site for crawling (e.g. google.com): ")
 subdomains = []
 
 with open("subdomains.txt", 'r') as file:
