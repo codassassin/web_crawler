@@ -1,6 +1,8 @@
 # web_crawler
 This is a simple web crawler created using python
 
+## latest version available at https://github.com/codassassin/web-crawler-v2.0
+
 
 ### Disclaimer !!
 
